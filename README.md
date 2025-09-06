@@ -8,6 +8,9 @@
      Polynomial Regression.
      Time Series analysis
      etc
+     Check out my latest repos on ML
+     https://github.com/mchepuri/linereg-polynomial
+     https://github.com/mchepuri/pca_kmeans_dbscan-ml
 - 👯 I’m looking to collaborate on ...
     Any AI/ML projects
 - 🤔 I’m looking for help with ...
